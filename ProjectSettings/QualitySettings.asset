@@ -63,7 +63,7 @@ QualitySettings:
   - serializedVersion: 2
     name: Good
     pixelLightCount: 0
-    shadows: 2
+    shadows: 1
     shadowResolution: 1
     shadowProjection: 1
     shadowCascades: 1
