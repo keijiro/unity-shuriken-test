@@ -74,7 +74,7 @@ QualitySettings:
     antiAliasing: 0
     softParticles: 0
     softVegetation: 1
-    vSyncCount: 1
+    vSyncCount: 0
     lodBias: 1.000000
     maximumLODLevel: 0
     excludedTargetPlatforms: []
