@@ -15,8 +15,8 @@ PlayerSettings:
   AndroidLicensePublicKey: 
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
-  defaultScreenWidthWeb: 500
-  defaultScreenHeightWeb: 120
+  defaultScreenWidthWeb: 512
+  defaultScreenHeightWeb: 128
   m_RenderingPath: 1
   m_ActiveColorSpace: 0
   m_MTRendering: 1

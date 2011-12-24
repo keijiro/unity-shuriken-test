@@ -1364,7 +1364,7 @@ ParticleSystem:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1705889650}
-  lengthInSec: 10.000000
+  lengthInSec: 12.000000
   startDelay: 0.000000
   speed: 1.000000
   looping: 1
@@ -2522,7 +2522,7 @@ ParticleSystem:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1787292080}
-  lengthInSec: 10.000000
+  lengthInSec: 14.000000
   startDelay: 0.000000
   speed: 1.000000
   looping: 1
